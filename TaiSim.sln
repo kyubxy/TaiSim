@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaiSim", "TaiSim\TaiSim.csproj", "{FFEEE055-8D4D-4BA9-83C1-BCEC37D7663A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaiSim.Tests", "TaiSim.Tests\TaiSim.Tests.csproj", "{44A921A3-3BEC-4CE3-8D3A-226ABACE1AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEEE055-8D4D-4BA9-83C1-BCEC37D7663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEEE055-8D4D-4BA9-83C1-BCEC37D7663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEEE055-8D4D-4BA9-83C1-BCEC37D7663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEEE055-8D4D-4BA9-83C1-BCEC37D7663A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A921A3-3BEC-4CE3-8D3A-226ABACE1AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A921A3-3BEC-4CE3-8D3A-226ABACE1AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A921A3-3BEC-4CE3-8D3A-226ABACE1AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A921A3-3BEC-4CE3-8D3A-226ABACE1AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5911889A-D0AA-445F-B5F6-B86B1FE975CB}
+	EndGlobalSection
+EndGlobal
